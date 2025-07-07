@@ -1,6 +1,6 @@
 # CNN-Based Flood Depth Prediction Model
 
-This repository provides a full pipeline for training, validating, and predicting flood depth maps using a Convolutional Neural Network (CNN). It is designed to work with geospatial raster data and supports batch processing and visualization of model outputs.
+This is the framework for training, validating, and predicting flood depth maps using a Convolutional Neural Network (CNN). It is designed to work with geospatial raster data and supports batch processing and visualization of model outputs.
 
 ## 📁 Project Structure
 
@@ -94,4 +94,4 @@ Use `cnn_batch_processing.py` to run predictions across multiple events.
 
 ## 👨‍🔬 Authors
 
-Developed by [Your Name / Team], for research on CNN-based flood mapping.
+Developed by Yogesh Bhattarai(yogeshbhattarai.sb@gmail.com), for research on CNN-based flood depth prediction.
